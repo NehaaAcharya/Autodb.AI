@@ -33,7 +33,7 @@ AutoDB.AI leverages AI to automate:
 - **Authentication**: Firebase auth
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── client/               # Frontend code
@@ -74,12 +74,12 @@ AutoDB.AI leverages AI to automate:
    npm run dev
    ```
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 - **NoSQL Database Support** – Expanding to MongoDB.
 - **AI-driven Query Optimization** – Automating SQL query improvements.
 - **Database Migration Features** – Enabling seamless migration between database types.
 
-## 🤝 Contributing
+##  Contributing
 We welcome contributions! Follow these steps to contribute:
 1. Fork the repository.
 2. Create a new branch for your feature (`git checkout -b feature-branch`).
@@ -87,7 +87,7 @@ We welcome contributions! Follow these steps to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request (PR) on GitHub.
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 - - -
