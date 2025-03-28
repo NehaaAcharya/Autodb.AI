@@ -47,7 +47,7 @@ AutoDB.AI leverages AI to automate:
 ├── package.json          # Dependencies
 ```
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repository**
 
